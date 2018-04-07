@@ -22,6 +22,7 @@ int main()
         cout << "Original string: " << str << endl;
         cout << "Processed string: " << process(str) << endl;
     }
+    return 0;
 }
 
 /* This function takes a string as input and returns the string with the
